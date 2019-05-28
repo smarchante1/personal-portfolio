@@ -40,7 +40,7 @@ const SkipToContent = styled.a`
 `;
 
 const Layout = ({ children }) => {
-  const [isLoading, setIsLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(false);
   const [githubInfo, setGithubInfo] = useState({
     stars: null,
     forks: null,
