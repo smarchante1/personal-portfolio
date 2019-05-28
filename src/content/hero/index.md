@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
-contactText: 'Get In Touch'
+title: 'Hey there, im'
+name: 'Stephanie Marchante'
+subtitle: 'Junior Software-Engineer and Bass Wizardess.'
+contactText: 'Lets Chat'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a software engineer and bass guitarist based in Seattle, WA. I love learning about new technologies and flexing my Agile development chops on new and exciting projects.

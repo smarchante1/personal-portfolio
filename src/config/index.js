@@ -1,38 +1,28 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Stephanie Marchante | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Stephanie Marchante is a Software Engineer and Bass Guitarist based in Seattle, WA.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Stephanie Marchante, Stephanie, Marchante, smarchante1, software engineer, front-end engineer, web developer, javascript,',
+  siteUrl: 'https://smarchante1.github.io/',
   siteLanguage: 'en_US',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7/',
+  name: 'Stephanie Marchante',
+  location: 'Seattle, WA',
+  email: 'smarchante1@gmail.com',
+  github: 'https://github.com/smarchante1/',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/smarchante1/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
+      url: 'https://www.linkedin.com/in/stephanie-marchante-06a531180/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.instagram.com/phaninotreble/',
     },
   ],
 
@@ -54,9 +44,6 @@ module.exports = {
       url: '#contact',
     },
   ],
-
-  twitterHandle: '@bchiang7',
-  googleAnalyticsID: 'UA-45666519-2',
 
   navHeight: 100,
 

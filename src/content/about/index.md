@@ -2,18 +2,17 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - GraphQL
-  - NativeScript
+  - Ruby
+  - Ruby On Rails
+  - JavaScript
+  - HTML/CSS
+  - TDD Practices
+  - Git
+  - Agile Development Practices
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hi there! My name is Stephanie. I'm a Software Engineer from Los Angeles, currently living in beautiful Seattle.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Born and raised in New York City, I graduated from [SUNY Buffalo](http://www.buffalo.edu/) where I studied Biomedical Sciences. I switched gears to Software Development after falling in love with Logic Pro and Pro Tools (musicians best friends), and applied to [Ada Developers Academy](http://www.adadevelopersacademy.org/). There I've been studying full-stack web development with a personal focus on front-end technologies.
 
-Here's a few technologies I've been working with recently:
+My language toolbox for your perusal:
