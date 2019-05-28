@@ -3,7 +3,7 @@ const theme = {
     dark: '#000007',
     darkestNavy: '#01050b',
     // footer
-    darkNavy: '#7F055F',
+    darkNavy: '#45062E',
     // nav menu color
     navy: '#7F055F',
     // project containers
@@ -16,18 +16,18 @@ const theme = {
     // experience titles
     lightGrey: '#FFE8D4',
     // subtitle text color
-    slate: '#000007',
+    slate: '#D0A4C4',
     // Icons and text
-    lightSlate: '#a8b2d1',
+    lightSlate: '#C4D1FF',
     // titles of projects
-    lightestSlate: '#ccd6f6',
+    lightestSlate: '#E5A4CB',
     offWhite: '#dce7ff',
     white: '#e6f1ff',
     pink: '#FF647F',
     yellow: '#FFC464',
     orange: '#FF9E64',
     // accent color
-    green: '#E5A4CB',
+    green: '#93ACFF',
     blue: '#71AFFF',
     darkBlue: '#1D7FFC',
     highlight: 'rgba(41, 61, 90, 0.99)',
