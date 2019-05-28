@@ -1,4 +1,5 @@
 ---
+date: ''
 title: 'Software Engineering Student'
 company: 'Ada Developers Academy'
 location: 'Seattle, WA'

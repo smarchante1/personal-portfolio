@@ -1,4 +1,5 @@
 ---
+date: ''
 title: 'Founder'
 company: 'Weggyman At The Door'
 location: 'Buffalo, NY'

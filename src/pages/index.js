@@ -62,10 +62,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    jobs: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/jobs/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
+    jobs: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/jobs/" } }) {
       edges {
         node {
           frontmatter {
@@ -73,16 +70,12 @@ export const pageQuery = graphql`
             company
             location
             range
-            url
           }
           html
         }
       }
     }
-    featured: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/featured/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
+    featured: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/featured/" } }) {
       edges {
         node {
           frontmatter {
@@ -103,10 +96,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    projects: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/projects/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
+    projects: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/projects/" } }) {
       edges {
         node {
           frontmatter {

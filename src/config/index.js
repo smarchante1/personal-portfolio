@@ -4,7 +4,7 @@ module.exports = {
     'Stephanie Marchante is a Software Engineer and Bass Guitarist based in Seattle, WA.',
   siteKeywords:
     'Stephanie Marchante, Stephanie, Marchante, smarchante1, software engineer, front-end engineer, web developer, javascript,',
-  siteUrl: 'https://smarchante1.github.io/',
+  siteUrl: '',
   siteLanguage: 'en_US',
 
   name: 'Stephanie Marchante',
@@ -49,7 +49,7 @@ module.exports = {
 
   greenColor: '#64ffda',
   navyColor: '#0a192f',
-  darkNavyColor: '#020c1b',
+  darkNavyColor: '#329399',
 
   srConfig: (delay = 200) => ({
     origin: 'bottom',
