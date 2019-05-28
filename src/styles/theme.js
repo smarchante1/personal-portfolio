@@ -2,28 +2,39 @@ const theme = {
   colors: {
     dark: '#000007',
     darkestNavy: '#01050b',
-    darkNavy: '#329399',
-    navy: '#0a192f',
-    lightNavy: '#172a45',
-    darkGrey: '#333f58',
+    // footer
+    darkNavy: '#7F055F',
+    // nav menu color
+    navy: '#7F055F',
+    // project containers
+    lightNavy: '#45062E',
+    // experience timeline
+    darkGrey: '#FFE8D4',
     mediumGrey: '#2d3952',
     blueGrey: '#293d5a',
     grey: '#4c5772',
-    lightGrey: '#606a86',
-    slate: '#8892b0',
+    // experience titles
+    lightGrey: '#FFE8D4',
+    // subtitle text color
+    slate: '#000007',
+    // Icons and text
     lightSlate: '#a8b2d1',
+    // titles of projects
     lightestSlate: '#ccd6f6',
     offWhite: '#dce7ff',
     white: '#e6f1ff',
     pink: '#FF647F',
     yellow: '#FFC464',
     orange: '#FF9E64',
-    green: '#64ffda',
+    // accent color
+    green: '#E5A4CB',
     blue: '#71AFFF',
     darkBlue: '#1D7FFC',
     highlight: 'rgba(41, 61, 90, 0.99)',
+    // hover on buttons
     transGreen: 'rgba(100, 255, 218, 0.07)',
     transNavy: 'rgba(10, 25, 47, 0.7)',
+    // Color of menu shadow
     shadowNavy: 'rgba(2, 12, 27, 0.7)',
   },
 
