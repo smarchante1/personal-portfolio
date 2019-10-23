@@ -10,5 +10,4 @@ tech:
 show: 'true'
 ---
 
-Designed and Built a guitar (stratocaster), and embedded an LED fretboard light system utilizing a single-board micro-controller (Arduino)
-and presented design at Uber HQ Seattle.
+Designed and Built a guitar (stratocaster), and embedded an LED fretboard light system utilizing a single-board micro-controller (Arduino) and presented design at Uber HQ Seattle.
