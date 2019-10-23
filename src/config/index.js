@@ -9,7 +9,7 @@ module.exports = {
 
   name: 'Stephanie Marchante',
   location: 'Seattle, WA',
-  email: 'smarchante1@gmail.com',
+  email: 'smarcha04@gmail.com',
   github: 'https://github.com/smarchante1/',
   socialMedia: [
     {

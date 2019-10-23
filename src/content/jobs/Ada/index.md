@@ -3,7 +3,7 @@ date: ''
 title: 'Software Engineering Student'
 company: 'Ada Developers Academy'
 location: 'Seattle, WA'
-range: 'Jan - Current'
+range: 'Jan 2019 - Current'
 ---
 
 - Highly selective Software Development bootcamp (less than 10% acceptance rate) where students learn full-stack web development

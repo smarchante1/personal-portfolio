@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { StaticQuery, graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Head, Loader, Nav, Social, Email, Footer } from '@components';
+import { Loader, Nav, Social, Email, Footer } from '@components';
 import styled from 'styled-components';
 import { GlobalStyle, theme } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -65,15 +65,14 @@ const Layout = ({ children }) => {
           site {
             siteMetadata {
               title
-              siteUrl
               description
             }
           }
         }
       `}
-      render={({ site }) => (
+      render={() => (
         <div id="root">
-          <Head metadata={site.siteMetadata} />
+          {/* <Head metadata={site.siteMetadata} /> */}
 
           <GlobalStyle />
 
