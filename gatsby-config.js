@@ -17,7 +17,7 @@ module.exports = {
       options: {
         name: 'StephanieMarchante',
         short_name: 'StephanieMarchante',
-        start_url: '/',
+        start_url: 'https://stephanie-marchante-port.herokuapp.com',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
         display: 'minimal-ui',
