@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    siteURL: config.siteURL,
+    siteUrl: 'https://stephanie-marchante-port.herokuapp.com',
     title: config.siteTitle,
     description: config.siteDescription,
   },
@@ -11,7 +11,6 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-manifest`,
