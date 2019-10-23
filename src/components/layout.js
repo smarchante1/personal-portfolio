@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StaticQuery, graphql } from 'gatsby';
+import { StaticQuery } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Loader, Nav, Social, Email, Footer } from '@components';
 import styled from 'styled-components';
@@ -60,17 +60,6 @@ const Layout = ({ children }) => {
 
   return (
     <StaticQuery
-      query={graphql`
-        query LayoutQuery {
-          site {
-            siteMetadata {
-              siteUrl
-              title
-              description
-            }
-          }
-        }
-      `}
       render={() => (
         <div id="root">
           {/* <Head metadata={site.siteMetadata} /> */}
