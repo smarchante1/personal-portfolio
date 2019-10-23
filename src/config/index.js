@@ -4,7 +4,7 @@ module.exports = {
     'Stephanie Marchante is a Software Engineer and Bass Guitarist based in Seattle, WA.',
   siteKeywords:
     'Stephanie Marchante, Stephanie, Marchante, smarchante1, software engineer, front-end engineer, web developer, javascript,',
-  siteUrl: '',
+  siteUrl: 'https://stephanie-marchante-port.herokuapp.com',
   siteLanguage: 'en_US',
 
   name: 'Stephanie Marchante',
