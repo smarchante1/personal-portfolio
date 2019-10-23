@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://stephanie-marchante-port.herokuapp.com',
+    siteUrl: config.siteUrl,
     title: config.siteTitle,
     description: config.siteDescription,
   },
