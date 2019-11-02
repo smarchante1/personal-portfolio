@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StaticQuery } from 'gatsby';
+// import { StaticQuery } from 'gatsby';
 import PropTypes from 'prop-types';
 import { Loader, Nav, Social, Email, Footer } from '@components';
 import styled from 'styled-components';
@@ -59,29 +59,25 @@ const Layout = ({ children }) => {
   }, []);
 
   return (
-    <StaticQuery
-      render={() => (
-        <div id="root">
-          {/* <Head metadata={site.siteMetadata} /> */}
+    <div id="root">
+      {/* <Head metadata={site.siteMetadata} /> */}
 
-          <GlobalStyle />
+      <GlobalStyle />
 
-          <SkipToContent href="#content">Skip to Content</SkipToContent>
+      <SkipToContent href="#content">Skip to Content</SkipToContent>
 
-          {isLoading ? (
-            <Loader finishLoading={() => setIsLoading(false)} />
-          ) : (
-            <div className="container">
-              <Nav />
-              <Social />
-              <Email />
-              {children}
-              <Footer githubInfo={githubInfo} />
-            </div>
-          )}
+      {isLoading ? (
+        <Loader finishLoading={() => setIsLoading(false)} />
+      ) : (
+        <div className="container">
+          <Nav />
+          <Social />
+          <Email />
+          {children}
+          <Footer githubInfo={githubInfo} />
         </div>
       )}
-    />
+    </div>
   );
 };
 
